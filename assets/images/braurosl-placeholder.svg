@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 260" role="img" aria-label="Pschorr-Bräurosl tent photo placeholder">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#2a3b63"/>
+      <stop offset="100%" stop-color="#12192c"/>
+    </linearGradient>
+  </defs>
+  <rect width="500" height="260" fill="url(#sky)"/>
+  <polygon points="80,220 250,60 420,220" fill="#b23a3a" opacity="0.9"/>
+  <polygon points="250,60 260,45 270,60" fill="#d9b35b"/>
+  <circle cx="260" cy="35" r="8" fill="#d9b35b"/>
+  <rect x="80" y="220" width="340" height="14" fill="#7a2626"/>
+  <text x="250" y="248" text-anchor="middle" font-family="Georgia, serif" font-size="16" fill="#f4ead2">Pschorr-Bräurosl — photo coming soon</text>
+</svg>

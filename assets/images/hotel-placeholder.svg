@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 240" role="img" aria-label="Hotel photo placeholder">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#24365c"/>
+      <stop offset="100%" stop-color="#12192c"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="240" fill="url(#g)"/>
+  <g fill="#d9b35b" opacity="0.9">
+    <rect x="130" y="70" width="140" height="140" />
+    <polygon points="120,70 200,25 280,70" />
+    <rect x="150" y="120" width="24" height="24" fill="#12192c"/>
+    <rect x="188" y="120" width="24" height="24" fill="#12192c"/>
+    <rect x="226" y="120" width="24" height="24" fill="#12192c"/>
+    <rect x="188" y="160" width="24" height="50" fill="#12192c"/>
+  </g>
+  <text x="200" y="228" text-anchor="middle" font-family="Georgia, serif" font-size="14" fill="#f4ead2">photo coming soon</text>
+</svg>

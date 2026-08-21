@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-label="Beer stein icon">
+  <rect width="100" height="100" rx="20" fill="#12192c"/>
+  <path d="M30 34h34v42a6 6 0 0 1-6 6H36a6 6 0 0 1-6-6V34z" fill="#d9b35b"/>
+  <rect x="30" y="34" width="34" height="9" fill="#f4ead2"/>
+  <path d="M64 42h6a6 6 0 0 1 6 6v14a6 6 0 0 1-6 6h-6V42z" fill="#d9b35b"/>
+  <rect x="26" y="24" width="42" height="10" rx="3" fill="#f4ead2"/>
+</svg>

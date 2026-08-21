@@ -1,0 +1,14 @@
+{
+  "name": "oktoberfest-2026-guide",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Single-page itinerary and guide for our Oktoberfest 2026 trip, built from content.md.",
+  "scripts": {
+    "build": "node build.mjs",
+    "serve": "npx --yes serve dist"
+  },
+  "dependencies": {
+    "marked": "^14.1.3"
+  }
+}

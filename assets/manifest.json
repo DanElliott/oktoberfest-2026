@@ -1,0 +1,13 @@
+{
+  "name": "Oktoberfest 2026 Trip Guide",
+  "short_name": "Wiesn 2026",
+  "description": "Itinerary, tent reservations, and know-before-you-go guide for our Oktoberfest 2026 trip to Munich.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#0d1322",
+  "theme_color": "#12192c",
+  "icons": [
+    { "src": "images/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
