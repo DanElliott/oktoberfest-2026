@@ -33,7 +33,7 @@ build script relies on:
 
 ### Sam Okafor [PLACEHOLDER]
 ![Guest photo placeholder](images/guest-placeholder.svg)
-- **Role:** Prost captain — first one to raise a stein, every time
+- **Role:** Prost captain — first one to raise a Maß, every time
 - **Flying in from:** [PLACEHOLDER — home city]
 - **Fun fact:** [PLACEHOLDER]
 
@@ -124,7 +124,7 @@ The City of Munich publishes an official, annually updated grounds map (Übersic
 - Reservations typically require a minimum spend or come with pre-purchased beer/food vouchers — check the fine print on our confirmations.
 - Don't stand on the bench unless everyone around you already is — read the room, especially in the calmer tents.
 - Tables are shared and communal — it's completely normal (and encouraged) to chat with the strangers next to you.
-- Always toast before you drink: make eye contact, clink steins, and say "Prost!" — drinking without toasting the table is considered rude.
+- Always toast before you drink: make eye contact, clink Maß, and say "Prost!" — drinking without toasting the table is considered rude.
 
 ### Tipping Culture
 - Tipping isn't optional the way it can feel elsewhere — it's expected and appreciated, but modest.
@@ -141,7 +141,7 @@ The City of Munich publishes an official, annually updated grounds map (Übersic
 
 ### Songs to Know
 Learn at least the choruses — every brass band plays these on loop and the whole tent sings along:
-- **"Ein Prosit"** — the official Oktoberfest toasting song, played every few minutes; when it starts, stand, raise your stein, and shout "Prost!" at the end.
+- **"Ein Prosit"** — the official Oktoberfest toasting song, played every few minutes; when it starts, stand, raise your Maß, and shout "Prost!" at the end.
 - **"Country Roads" (John Denver)** — inexplicably a Wiesn tent anthem at this point, especially in the more international tents like Hofbräu-Festzelt.
 - **"Layla" (Modern Talking version)** — a Bavarian party-tent staple, don't be surprised when it drops.
 - **"Sweet Caroline"** — standard sing-along filler between traditional sets, universally known so easy to join in.
@@ -149,7 +149,7 @@ Learn at least the choruses — every brass band plays these on loop and the who
 
 ### How to Have the Best Time
 - Eat before you drink and keep eating — a pretzel and half a roast chicken (Hendl) between rounds keeps the day going.
-- Pace yourself: a Maß is a full liter, tents open early, and the day is long — this is a marathon across three days, not a sprint.
+- Pace yourself: a Maß (pronounced "mahss" — long "ah" like in *father*, hard "s" at the end; not like the English word "mass") is a full liter, tents open early, and the day is long — this is a marathon across three days, not a sprint.
 - Drink water between rounds, and know where the free water fountains are (yes, they exist on the grounds).
 - Agree on a meeting point and a "if we get separated" plan before each night — tents are loud, packed, and phone signal is unreliable.
 - Cash is still king at a lot of stalls and smaller transactions, though tents generally take cards now — carry some euros anyway.
