@@ -63,7 +63,7 @@ build script relies on:
 
 ### Pschorr-Bräurosl
 - **Date:** Wednesday, September 23, 2026
-- **Time:** 5:15 PM – 11:30 PM (17:15–23:30)
+- **Time:** 5:15 PM – 11:30 PM
 - **Reservation:** With Renate
 - **Brewery:** Pschorr
 
@@ -75,8 +75,8 @@ build script relies on:
 
 ### Hofbräu-Festzelt
 - **Date:** Thursday, September 24, 2026
-- **Time:** Evening [PLACEHOLDER — confirm exact arrival/table time]
-- **Reservation:** [PLACEHOLDER — confirmation number / table number / booking contact]
+- **Time:** approximately 4:00 PM – 11:00 PM
+- **Reservation:** Oktoberfest Premiere
 - **Brewery:** Hofbräu München
 
 ![Hofbräu-Festzelt](images/hofbrau.jpg)
@@ -87,11 +87,11 @@ build script relies on:
 
 ### Fischer-Vroni
 - **Date:** Friday, September 25, 2026
-- **Time:** Evening [PLACEHOLDER — confirm exact arrival/table time]
-- **Reservation:** [PLACEHOLDER — confirmation number / table number / booking contact]
+- **Time:** approximately 4:00 PM – 11:00 PM
+- **Reservation:** Oktoberfest Premiere
 - **Brewery:** Hacker-Pschorr
 
-![Fischer-Vroni placeholder](images/fischervroni.jpg)
+![Fischer-Vroni](images/fischervroni.jpg)
 
 **History.** Fischer-Vroni is a family-run tent, smaller and cozier than the giants, and it's the place on the Wiesn best known for Steckerlfisch — whole mackerel grilled on a stick, a Wiesn specialty since long before Fischer-Vroni existed but perfected here. It's named after "Vroni" (Veronika), tied to the Fischer family's long history running food stalls at the festival.
 
@@ -118,7 +118,6 @@ The City of Munich publishes an official, annually updated grounds map (Übersic
 - **Backpacks and large bags are banned.** Small handbags/purses (roughly under 3 liters) are fine; anything bigger will be turned away or need to be checked/stored off-site.
 - No knives, no glass bottles, no weapons of any kind — obviously, but security does check.
 - Keep valuables on you and split up cash/cards between people — pickpockets work crowded tents and transit stations.
-- [PLACEHOLDER] Add specific entrance recommendation for our tents once confirmed.
 
 ### Table Etiquette
 - A reserved table is a big deal — arrive on time, because most reservations have a hard start (and sometimes a hard end) window and staff will reseat late no-shows.
@@ -138,15 +137,26 @@ The City of Munich publishes an official, annually updated grounds map (Übersic
 - If wearing a Dirndl: the bow position on the apron is a (mostly joking, sometimes real) signal — left side = single, right side = taken, center front = virgin/young, back = widowed or "not interested." Nobody will actually judge you for getting it wrong.
 - Comfortable shoes matter more than looking sharp — expect a lot of standing, walking between tents, and cobblestones.
 - Bring a layer — Munich in late September can swing from warm afternoons to cold nights.
-- [PLACEHOLDER] Note here if anyone in the group needs to buy/rent an outfit before the trip.
+- You can buy/rent an outfit before the trip. [Bavarian Outfitters](https://bavarian-outfitters.de)
 
 ### Songs to Know
 Learn at least the choruses — every brass band plays these on loop and the whole tent sings along:
 - **"Ein Prosit"** — the official Oktoberfest toasting song, played every few minutes; when it starts, stand, raise your Maß, and shout "Prost!" at the end.
-- **"Country Roads" (John Denver)** — inexplicably a Wiesn tent anthem at this point, especially in the more international tents like Hofbräu-Festzelt.
 - **"Layla" (Modern Talking version)** — a Bavarian party-tent staple, don't be surprised when it drops.
-- **"Sweet Caroline"** — standard sing-along filler between traditional sets, universally known so easy to join in.
 - **"In München steht ein Hofbräuhaus"** — a Bavarian drinking classic, especially fitting for our Hofbräu-Festzelt night.
+- **"Skandal im Sperrbezirk" (Spider Murphy Gang)** — Just learn the line "Skandal um Rosi!"
+- **"Fliegerlied" (Donikkl)** — has a popular dance you'll probably learn
+
+**English songs you already know:**
+- **"Country Roads" (John Denver)** — inexplicably a Wiesn tent anthem at this point, especially in the more international tents like Hofbräu-Festzelt.
+- **"Sweet Caroline" (Neil Diamond)** — standard sing-along filler between traditional sets, universally known so easy to join in.
+- **"Angels" (Robbie Williams)** - Very important to know! An popular english song (but not well known in the states)
+- **"Sweet Home Alabame"**
+- **"Summer of 69" (Bryan Adams)**
+- **"YMCA" (Village People)**
+- **"It's My Life" (Bon Jovi)**
+- **"We are the Champion" & "We Will Rock You" (Queen)**
+- **"Hey Baby" (Bruce Channel)**
 
 ### How to Have the Best Time
 - Eat before you drink and keep eating — a pretzel and half a roast chicken (Hendl) between rounds keeps the day going.
@@ -156,4 +166,3 @@ Learn at least the choruses — every brass band plays these on loop and the who
 - Cash is still king at a lot of stalls and smaller transactions, though tents generally take cards now — carry some euros anyway.
 - Bring a portable phone charger — a dead phone in a 9,000-person tent is a genuinely bad time.
 - Get to reserved tables 15–20 minutes before the official reservation window starts.
-- [PLACEHOLDER] Add any group-specific logistics: shared transit tickets, designated meeting spot, emergency contact info.
