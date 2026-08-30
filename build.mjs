@@ -114,7 +114,8 @@ function buildPage() {
 
   const taglineHtml = marked.parser(introTokens.filter((t) => t.type !== "html"));
 
-  const mapEmbed = `<div class="map-embed">
+  const mapEmbed = `<p class="map-embed-label">Where Theresienwiese sits in the city:</p>
+  <div class="map-embed">
     <iframe
       src="https://www.google.com/maps?q=Theresienwiese+Munich&output=embed"
       loading="lazy"
@@ -133,7 +134,7 @@ function buildPage() {
       if (section.subs.length) {
         inner = `<div class="grid">${section.subs.map(renderCard).join("\n")}</div>`;
       } else {
-        inner = marked.parser(section.tokens.filter((t) => t.type !== "html"));
+        inner = marked.parser(section.tokens);
         inner = inner.replace("<!-- MAP_EMBED -->", mapEmbed);
       }
       return `<section id="${section.id}" class="section">

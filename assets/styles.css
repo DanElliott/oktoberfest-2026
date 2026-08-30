@@ -198,13 +198,30 @@ a { color: var(--gold-400); }
 #tent-reservations .card__meta { display: grid; grid-template-columns: repeat(auto-fit, minmax(160px, 1fr)); gap: 0.25rem 1rem; }
 
 /* Map */
-.map-embed {
+#festival-grounds-map img {
+  width: 100%;
+  border-radius: var(--radius);
+  border: 1px solid rgba(217, 179, 91, 0.2);
   margin-top: 1.5rem;
+}
+#festival-grounds-map em {
+  display: block;
+  margin: 0.6rem 0 1.5rem;
+  color: var(--text-muted);
+  font-size: 0.88rem;
+}
+.map-embed-label {
+  font-size: 0.85rem;
+  color: var(--gold-400);
+  font-weight: 600;
+  margin: 0 0 0.5rem;
+}
+.map-embed {
   border-radius: var(--radius);
   overflow: hidden;
   border: 1px solid rgba(217, 179, 91, 0.2);
 }
-.map-embed iframe { width: 100%; height: 380px; border: 0; }
+.map-embed iframe { width: 100%; height: 320px; border: 0; }
 
 /* Tips accordion on small screens */
 #know-before-you-go .card__prose { max-height: none; }

@@ -38,7 +38,7 @@ build script relies on:
 - **Fun fact:** Has a knack for hitting targets with axes
 
 ### Anthony Notarfrancesco
-![Guest photo placeholder](images/guest-placeholder.svg)
+![Anthony Notarfrancesco](images/ant.jpg)
 - **Role:** Prost captain — first one to raise a Maß, every time
 - **Flying in from:** Philly
 - **Fun fact:** [PLACEHOLDER]
@@ -91,7 +91,7 @@ build script relies on:
 - **Reservation:** [PLACEHOLDER — confirmation number / table number / booking contact]
 - **Brewery:** Hacker-Pschorr
 
-![Fischer-Vroni placeholder](images/fischervroni-placeholder.svg)
+![Fischer-Vroni placeholder](images/fischervroni.jpg)
 
 **History.** Fischer-Vroni is a family-run tent, smaller and cozier than the giants, and it's the place on the Wiesn best known for Steckerlfisch — whole mackerel grilled on a stick, a Wiesn specialty since long before Fischer-Vroni existed but perfected here. It's named after "Vroni" (Veronika), tied to the Fischer family's long history running food stalls at the festival.
 
@@ -101,10 +101,11 @@ build script relies on:
 
 Oktoberfest 2026 runs **September 19 – October 4, 2026** at Theresienwiese ("the Wiesn") in Munich, a five-minute U-Bahn ride from the city center (U4/U5 to Theresienwiese, or U3/U6 to Goetheplatz).
 
-The City of Munich publishes an official, annually updated grounds map (Übersichtsplan) showing every tent, entrance, ride, toilet, first-aid station, ATM, and lost-and-found point:
+The City of Munich publishes an official, annually updated grounds map (Übersichtsplan) showing every tent, entrance, ride, toilet, first-aid station, ATM, and lost-and-found point.
 
-- **Official map:** [muenchen.de — Oktoberfest Übersichtsplan](https://www.muenchen.de/veranstaltungen/oktoberfest/oktoberfest-muenchen-uebersichtsplan)
-- **[PLACEHOLDER]** Once the 2026 PDF/print map is released closer to the festival, swap this link for the direct PDF and/or drop a screenshot into `assets/images/` and reference it here.
+![Oktoberfest 2026 grounds map — tents, entrances, rides, and services](https://www.muenchen.de/sites/default/files/2026-07/oktoberfest_plan_2026_de_0.jpg)
+
+*Official City of Munich grounds map for 2026. Zoom in for detail, or view the [interactive version on muenchen.de](https://www.muenchen.de/veranstaltungen/oktoberfest/oktoberfest-muenchen-uebersichtsplan).*
 
 <!-- MAP_EMBED -->
 
