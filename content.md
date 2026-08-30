@@ -41,7 +41,7 @@ build script relies on:
 ![Anthony Notarfrancesco](images/ant.jpg)
 - **Role:** Prost captain — first one to raise a Maß, every time
 - **Flying in from:** Philly
-- **Fun fact:** Owner of SouthHouse which survived the pandemic with ability to adapt
+- **Fun fact:** Owner of SouthHouse which survived the pandemic thanks to their adaptability and mastery of finances
 
 ## Where We're Staying
 
@@ -77,7 +77,7 @@ Each of our three table reservations includes **2 Maß and a food entrée per pe
 
 ### Hofbräu-Festzelt
 - **Date:** Thursday, September 24, 2026
-- **Time:** approximately 4:00 PM – 11:00 PM
+- **Time:** ~4:00 PM – 11:00 PM
 - **Reservation:** Oktoberfest Premiere
 - **Brewery:** Hofbräu München
 
@@ -89,7 +89,7 @@ Each of our three table reservations includes **2 Maß and a food entrée per pe
 
 ### Fischer-Vroni
 - **Date:** Friday, September 25, 2026
-- **Time:** approximately 4:00 PM – 11:00 PM
+- **Time:** ~4:00 PM – 11:00 PM
 - **Reservation:** Oktoberfest Premiere
 - **Brewery:** Hacker-Pschorr
 
@@ -149,7 +149,7 @@ Learn at least the choruses — every brass band plays these on loop and the who
 - **"Skandal im Sperrbezirk" (Spider Murphy Gang)** — Just learn the line "Skandal um Rosi!"
 - **"Fliegerlied" (Donikkl)** — has a popular dance you'll probably learn
 
-**English songs you already know:**
+English songs you already know:
 - **"Country Roads" (John Denver)** — inexplicably a Wiesn tent anthem at this point, especially in the more international tents like Hofbräu-Festzelt.
 - **"Sweet Caroline" (Neil Diamond)** — standard sing-along filler between traditional sets, universally known so easy to join in.
 - **"Angels" (Robbie Williams)** - Very important to know! An popular english song (but not well known in the states)
