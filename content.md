@@ -19,44 +19,44 @@ build script relies on:
 
 ## Guests
 
-### Alex Rivera [PLACEHOLDER]
-![Guest photo placeholder](images/guest-placeholder.svg)
+### Dan Elliott
+![Dan Elliott](images/dan.jpg)
 - **Role:** Trip organizer, table reservations, keeper of the group chat
-- **Flying in from:** [PLACEHOLDER — home city]
-- **Fun fact:** [PLACEHOLDER — e.g. "Has a Dirndl picked out already"]
+- **Flying in from:** Philly
+- **Fun fact:** Has lost track of the number of days they've celebrated Oktoberfest in Munich
 
-### Jamie Chen [PLACEHOLDER]
-![Guest photo placeholder](images/guest-placeholder.svg)
-- **Role:** Designated photographer and Steckerlfisch enthusiast
-- **Flying in from:** [PLACEHOLDER — home city]
+### Erica Fortune
+![Erica Fortune](images/erica.jpg)
+- **Role:** Designated "we should probably eat something" voice
+- **Flying in from:** Atlanta
 - **Fun fact:** [PLACEHOLDER]
 
-### Sam Okafor [PLACEHOLDER]
+### Sal Randazzo
+![Salvador Randazzo](images/sal.jpg)
+- **Role:** Designated photographer and Steckerlfisch enthusiast
+- **Flying in from:** Atlanta
+- **Fun fact:** Has a knack for hitting targets with axes
+
+### Anthony Notarfrancesco
 ![Guest photo placeholder](images/guest-placeholder.svg)
 - **Role:** Prost captain — first one to raise a Maß, every time
-- **Flying in from:** [PLACEHOLDER — home city]
-- **Fun fact:** [PLACEHOLDER]
-
-### Taylor Brandt [PLACEHOLDER]
-![Guest photo placeholder](images/guest-placeholder.svg)
-- **Role:** Budget tracker and designated "we should probably eat something" voice
-- **Flying in from:** [PLACEHOLDER — home city]
+- **Flying in from:** Philly
 - **Fun fact:** [PLACEHOLDER]
 
 ## Where We're Staying
 
-### Hotel Example Munich City [PLACEHOLDER]
-![Hotel photo placeholder](images/hotel-placeholder.svg)
+### Numa Munich St Paul
+![Numa Munich St Paul](images/numa.jpg)
 - **Address:** [PLACEHOLDER — street address, Munich]
-- **Distance to Theresienwiese:** ~[PLACEHOLDER] on foot, or one U-Bahn stop
-- **Who's staying here:** Alex, Jamie
+- **Distance to Theresienwiese:** ~13 minutes on foot
+- **Who's staying here:** Erica, Sal
 - **Notes:** [PLACEHOLDER — check-in time, breakfast included, luggage storage policy]
 
-### Apartment near Sendlinger Tor [PLACEHOLDER]
-![Apartment photo placeholder](images/apartment-placeholder.svg)
+### München City Center By Meliá
+![München City Center By Meliá](images/melia.jpg)
 - **Address:** [PLACEHOLDER — street address, Munich]
-- **Distance to Theresienwiese:** ~[PLACEHOLDER] walk
-- **Who's staying here:** Sam, Taylor
+- **Distance to Theresienwiese:** ~13 minute walk
+- **Who's staying here:** Dan, Anthony
 - **Notes:** [PLACEHOLDER — self check-in code, host contact]
 
 ## Tent Reservations
@@ -64,10 +64,10 @@ build script relies on:
 ### Pschorr-Bräurosl
 - **Date:** Wednesday, September 23, 2026
 - **Time:** 5:15 PM – 11:30 PM (17:15–23:30)
-- **Reservation:** [PLACEHOLDER — confirmation number / table number / booking contact]
+- **Reservation:** With Renate
 - **Brewery:** Pschorr
 
-![Bräurosl tent placeholder](images/braurosl-placeholder.svg)
+![Bräurosl zelt](images/braurosl.jpg)
 
 **History.** The Bräurosl has poured Pschorr beer since 1902 and is one of the largest tents on the grounds. It's named after "Rosl," a legendary barmaid, and the giant rose crowning the facade is where the nickname comes from. The Heide family has run the tent for generations, and it's known for leaning into full Bavarian tradition rather than tourist spectacle.
 
@@ -79,7 +79,7 @@ build script relies on:
 - **Reservation:** [PLACEHOLDER — confirmation number / table number / booking contact]
 - **Brewery:** Hofbräu München
 
-![Hofbräu-Festzelt placeholder](images/hofbrau-placeholder.svg)
+![Hofbräu-Festzelt](images/hofbrau.jpg)
 
 **History.** Hofbräu München was founded in 1589 by Duke Wilhelm V and is still state-owned today. The Festzelt is one of the biggest and most internationally famous tents on the Wiesn, drawing a huge crowd of visitors from outside Germany — especially the US, UK, and Australia.
 
