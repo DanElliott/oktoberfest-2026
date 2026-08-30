@@ -21,7 +21,7 @@ build script relies on:
 
 ### Dan Elliott
 ![Dan Elliott](images/dan.jpg)
-- **Role:** Trip organizer, table reservations, keeper of the group chat
+- **Role:** Trip organizer, table reservations
 - **Flying in from:** Philly
 - **Fun fact:** Has lost track of the number of days they've celebrated Oktoberfest in Munich
 
@@ -29,7 +29,7 @@ build script relies on:
 ![Erica Fortune](images/erica.jpg)
 - **Role:** Designated "we should probably eat something" voice
 - **Flying in from:** Atlanta
-- **Fun fact:** [PLACEHOLDER]
+- **Fun fact:** Nails the song *Zombie* every time
 
 ### Sal Randazzo
 ![Salvador Randazzo](images/sal.jpg)
@@ -41,25 +41,27 @@ build script relies on:
 ![Anthony Notarfrancesco](images/ant.jpg)
 - **Role:** Prost captain — first one to raise a Maß, every time
 - **Flying in from:** Philly
-- **Fun fact:** [PLACEHOLDER]
+- **Fun fact:** Owner of SouthHouse which survived the pandemic with ability to adapt
 
 ## Where We're Staying
 
 ### Numa Munich St Paul
 ![Numa Munich St Paul](images/numa.jpg)
-- **Address:** [PLACEHOLDER — street address, Munich]
+- **Address:** Landwehrstraße 56
 - **Distance to Theresienwiese:** ~13 minutes on foot
 - **Who's staying here:** Erica, Sal
-- **Notes:** [PLACEHOLDER — check-in time, breakfast included, luggage storage policy]
+- **Notes:** 
 
 ### München City Center By Meliá
 ![München City Center By Meliá](images/melia.jpg)
-- **Address:** [PLACEHOLDER — street address, Munich]
+- **Address:** Paul-Heyse-Strasse 24
 - **Distance to Theresienwiese:** ~13 minute walk
 - **Who's staying here:** Dan, Anthony
-- **Notes:** [PLACEHOLDER — self check-in code, host contact]
+- **Notes:** Reservation under Daniel Elliott
 
 ## Tent Reservations
+
+Each of our three table reservations includes **2 Maß and a food entrée per person**, already covered as part of the table minimum — budget for extra rounds and snacks beyond that.
 
 ### Pschorr-Bräurosl
 - **Date:** Wednesday, September 23, 2026
@@ -121,7 +123,7 @@ The City of Munich publishes an official, annually updated grounds map (Übersic
 
 ### Table Etiquette
 - A reserved table is a big deal — arrive on time, because most reservations have a hard start (and sometimes a hard end) window and staff will reseat late no-shows.
-- Reservations typically require a minimum spend or come with pre-purchased beer/food vouchers — check the fine print on our confirmations.
+- Reservations typically require a minimum spend or come with pre-purchased beer/food vouchers — ours each include 2 Maß and a food entrée per person, so budget for extras beyond that.
 - Don't stand on the bench unless everyone around you already is — read the room, especially in the calmer tents.
 - Tables are shared and communal — it's completely normal (and encouraged) to chat with the strangers next to you.
 - Always toast before you drink: make eye contact, clink Maß, and say "Prost!" — drinking without toasting the table is considered rude.

@@ -132,7 +132,8 @@ function buildPage() {
     .map((section) => {
       let inner;
       if (section.subs.length) {
-        inner = `<div class="grid">${section.subs.map(renderCard).join("\n")}</div>`;
+        const introHtml = section.tokens.length ? marked.parser(section.tokens) : "";
+        inner = `${introHtml}<div class="grid">${section.subs.map(renderCard).join("\n")}</div>`;
       } else {
         inner = marked.parser(section.tokens);
         inner = inner.replace("<!-- MAP_EMBED -->", mapEmbed);
